@@ -1,4 +1,3 @@
-
 # Hi, I'm [Saleh Al-Qurashi](https://www.linkedin.com/in/saleh-al-qurashi-567766207/) 👋  
 
 **Data Analyst | Passionate about uncovering insights through data**  
