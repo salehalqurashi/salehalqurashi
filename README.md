@@ -43,7 +43,3 @@
 
 ### 💡 **Let’s Collaborate:**  
 🔗 **Open to opportunities** in data analytics, reporting automation, and dashboard development. Let's drive results and innovation through the power of data!
-
----  
-
-This version combines a professional tone, advanced wording, and specific accomplishments that highlight your strengths in a polished way. Let me know if you'd like me to tweak anything further! 🚀
