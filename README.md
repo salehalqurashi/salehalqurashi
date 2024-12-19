@@ -46,3 +46,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salehalqurashi&color=blue)
 
+![GitHub Stats](https://img.shields.io/badge/Profile_Views-322-blue)
