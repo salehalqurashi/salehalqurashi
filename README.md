@@ -44,7 +44,12 @@
 ### 💡 **Let’s Collaborate:**  
 🔗 **Open to opportunities** in data analytics, reporting automation, and dashboard development. Let's drive results and innovation through the power of data!
 
+---  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=salehalqurashi&color=blue)
 
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=salehalqurashi&show_icons=true&theme=radical)
+
+![Followers](https://img.shields.io/github/followers/salehalqurashi?style=social)
+![Repos](https://img.shields.io/badge/Public%20Repos-5-blue)
