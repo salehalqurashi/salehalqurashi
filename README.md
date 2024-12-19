@@ -29,12 +29,6 @@
 - 🎯 **Enhanced Data Models**: Built robust data models to power efficient forecasting and analytics reporting across departments.  
 
 ---  
-
-### 🌟 **Professional Philosophy:**  
-> *"Data is not just numbers—it's a story waiting to be told. My mission is to transform raw data into clear, actionable insights that empower businesses to innovate, optimize, and thrive."*  
-
----  
-
 ### 🌐 **Connect with Me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-al-qurashi-567766207/)  
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/is__saleh)  
