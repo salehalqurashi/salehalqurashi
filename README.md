@@ -44,5 +44,5 @@
 ### 💡 **Let’s Collaborate:**  
 🔗 **Open to opportunities** in data analytics, reporting automation, and dashboard development. Let's drive results and innovation through the power of data!
 
-![Profile Views](https://komarev.com/ghpvc/?username=اسم_المستخدم&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=salehalqurashi&color=blue)
 
