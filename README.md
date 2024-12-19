@@ -46,4 +46,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salehalqurashi&color=blue)
 
-![GitHub Stats](https://img.shields.io/badge/Profile_Views-322-blue)
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=salehalqurashi&show_icons=true&theme=radical)
